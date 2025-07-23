@@ -3,8 +3,6 @@ import os
 import re
 import platform
 import matplotlib.pyplot as plt
-import seaborn as sns
-from datetime import datetime
 from io import BytesIO
 import base64
 
